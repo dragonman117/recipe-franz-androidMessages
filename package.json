@@ -1,13 +1,13 @@
 {
-  "id": "googleallo",
-  "name": "Google Allo",
+  "id": "androidMessages",
+  "name": "Android Messages",
   "version": "1.0.0",
-  "description": "Google Allo",
+  "description": "Android Messages",
   "main": "index.js",
-  "author": "SiloCityLabs LLC",
+  "author": "TJ Ferrell",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://allo.google.com/web",
+    "serviceURL": "https://messages.android.com/",
     "hasNotificationSound": true
   }
 }
